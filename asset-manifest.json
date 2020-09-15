@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/crowd-funding-demo/static/css/main.b53efb6d.chunk.css",
-    "main.js": "/crowd-funding-demo/static/js/main.b6cf8546.chunk.js",
-    "main.js.map": "/crowd-funding-demo/static/js/main.b6cf8546.chunk.js.map",
+    "main.js": "/crowd-funding-demo/static/js/main.e38cd9a2.chunk.js",
+    "main.js.map": "/crowd-funding-demo/static/js/main.e38cd9a2.chunk.js.map",
     "runtime-main.js": "/crowd-funding-demo/static/js/runtime-main.204f8df6.js",
     "runtime-main.js.map": "/crowd-funding-demo/static/js/runtime-main.204f8df6.js.map",
     "static/js/2.8410c777.chunk.js": "/crowd-funding-demo/static/js/2.8410c777.chunk.js",
     "static/js/2.8410c777.chunk.js.map": "/crowd-funding-demo/static/js/2.8410c777.chunk.js.map",
     "index.html": "/crowd-funding-demo/index.html",
-    "precache-manifest.b83896da7aabd8ea87e09a66404845d0.js": "/crowd-funding-demo/precache-manifest.b83896da7aabd8ea87e09a66404845d0.js",
+    "precache-manifest.3cfb5033e1429ff24aecf4c854b94d46.js": "/crowd-funding-demo/precache-manifest.3cfb5033e1429ff24aecf4c854b94d46.js",
     "service-worker.js": "/crowd-funding-demo/service-worker.js",
     "static/css/main.b53efb6d.chunk.css.map": "/crowd-funding-demo/static/css/main.b53efb6d.chunk.css.map",
     "static/js/2.8410c777.chunk.js.LICENSE.txt": "/crowd-funding-demo/static/js/2.8410c777.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.204f8df6.js",
     "static/js/2.8410c777.chunk.js",
     "static/css/main.b53efb6d.chunk.css",
-    "static/js/main.b6cf8546.chunk.js"
+    "static/js/main.e38cd9a2.chunk.js"
   ]
 }
