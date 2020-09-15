@@ -6,9 +6,9 @@ const Nav = ({history, match}) => {
         <nav>
             <ul>
             <li onClick={() => history.push(`${match.url}crowd-funding-demo/`) } >home</li>
-            <li onClick={() => history.push(`${match.url}about`) } >about</li>
-            <li onClick={() => history.push(`${match.url}contact`) } >contact</li>
-            <li onClick={() => history.push(`${match.url}info`) } >info</li>
+            <li onClick={() => history.push(`${match.url}crowd-funding-demo/about`) } >about</li>
+            <li onClick={() => history.push(`${match.url}crowd-funding-demo/contact`) } >contact</li>
+            <li onClick={() => history.push(`${match.url}crowd-funding-demo/info`) } >info</li>
             </ul>
         </nav>
     )
